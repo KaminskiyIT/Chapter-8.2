@@ -1,0 +1,1 @@
+@pyw.exe C:\py_lessons\automatic_by_py\8\project2\mcb.pyw %*
